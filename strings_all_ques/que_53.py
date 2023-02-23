@@ -4,4 +4,3 @@ count=0
 for char in a:
     if a.count(char)==2:
         print(char)
-        
