@@ -2,8 +2,8 @@
 a=input('enter the sentence: ')
 count={}
 words=a.split()
-for i in words:
-    if i in count:
+for word in words:
+    if wprd in count:
         count[i]+=1
     else :
         count[i]=1
