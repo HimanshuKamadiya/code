@@ -3,8 +3,8 @@ a=input('enter the sentence: ')
 count={}
 words=a.split()
 for word in words:
-    if wprd in count:
-        count[i]+=1
+    if word in count:
+        count[word]+=1
     else :
-        count[i]=1
+        count[word]=1
 print(count)
