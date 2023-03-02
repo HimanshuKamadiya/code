@@ -10,4 +10,4 @@ for i in b:
     else:
         count[i]=1
 t = sorted(count.items())
-print(t[-2])
+print(t[-1])
