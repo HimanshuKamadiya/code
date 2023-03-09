@@ -11,3 +11,4 @@ for i in range(len(a)):
 if b>c :
     c=b
 print(c)
+print(b)
