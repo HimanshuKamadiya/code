@@ -1,6 +1,6 @@
 # Write a Python program to find the common values that appear in two given strings
-a=set( input('the string: '))
-b=set(input('the 2nd string: '))
+a= input('the string: ')
+b= input('the 2nd string: ')
 common_chars = ""
 
 for char in a:
