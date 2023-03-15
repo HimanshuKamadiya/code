@@ -2,6 +2,6 @@
 a=input('the list of numbers: ')
 b=[]
 for i in a:
-    if i % 2 !=0:
+    if int(i) % 2 !=0:
         b.append(i)
 print(b)

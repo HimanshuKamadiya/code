@@ -3,6 +3,7 @@ a=input('the list1: ')
 b=input('the list2: ')
 c=[]
 for i in a:
+    #print(i)
     if i not in b:
         c.append(i)
 print(c)
