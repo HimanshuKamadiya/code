@@ -7,3 +7,10 @@ for i in range(len(lst)):
         sublists.append(lst[i:j])# slicing by loop variable
 
 print(sublists)
+
+
+
+
+
+
+

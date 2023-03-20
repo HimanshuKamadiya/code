@@ -2,3 +2,8 @@
 a= input('input the list: ').split(',')
 b=list(set(a))
 print(sorted(b))
+
+
+
+
+
