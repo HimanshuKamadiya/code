@@ -1,0 +1,1 @@
+#Write a Python program to check if a given element occurs at least n times in a list.
