@@ -1,0 +1,1 @@
+#Write a Python program to convert string values of a given dictionary into integer/float datatypes.

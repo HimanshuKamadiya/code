@@ -1,0 +1,1 @@
+#Write a Python program to check if multiple keys exist in a dictionary.
