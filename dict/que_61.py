@@ -3,7 +3,7 @@ from collections import Counter
 def test(dict):
     a=Counter(dict.values())
     return a
-b=dictt = {
+b= {
  'V': 10,
  'VI': 10,
  'VII': 40,
