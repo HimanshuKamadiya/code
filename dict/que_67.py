@@ -1,0 +1,1 @@
+# Write a Python program to invert a given dictionary with non-unique hashable values

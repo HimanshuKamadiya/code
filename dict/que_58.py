@@ -5,4 +5,3 @@ def test(dict1):
     return a
 p={'V' : [1, 4, 6, 10], 'VI' : [1, 4, 12], 'VII' : [1, 3, 8]}
 print(test(p))
-doubt
