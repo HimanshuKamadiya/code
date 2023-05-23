@@ -2,7 +2,7 @@
 # The function accepts the number as an argument
 def fac(n):
     a =1
-    for i in range(1,n+1):
+    for i in range(1,n+1): #stop excluded 
         a*=i
     print(a)
 
