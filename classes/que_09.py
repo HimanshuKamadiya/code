@@ -1,5 +1,8 @@
 #Write a Python class named Student with two attributes student_name, marks.
-# Modify the attribute values of the said class and print the original and modified values of the said attributes.
+# Modify the attribute values of the said class and print the original and 
+# 
+# 
+# modified values of the said attributes.
 class student:
     def __init__(self,name,marks):
         self.student_mname=name

@@ -1,9 +1,9 @@
 class node:
-    def __init__(self,value) -> None:
+    def __init__(self,value):
         self.head=value
         self.next=None
 class llist:
-    def __init__(self) -> None:
+    def __init__(self):
         self.h=None
     def printt(self):
         ps=self.h
