@@ -1,0 +1,1 @@
+#Write a Python program to extract year, month, date and time using Lambda.  
