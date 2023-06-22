@@ -28,7 +28,7 @@ class llist:
             p.next=a.next
             a=None
 l=llist()
-l.h=node('1')
+l.h=node('5')
 c=node('2') 
 e=node('3')
 l.h.next=c
